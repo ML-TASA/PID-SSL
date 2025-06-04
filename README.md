@@ -16,9 +16,9 @@ The data should be organized in the following directory structure:
 
 ```
 ./data/mltasa/
-    ©À©¤©¤ CIFAR10/
-    ©À©¤©¤ Image-100/
-    ©¸©¤©¤ ImageNet/
+    |--- CIFAR10/
+    |--- Image-100/
+    |--- ImageNet/
 ```
 
 ### Example Datasets:
