@@ -24,7 +24,7 @@ The data should be organized in the following directory structure:
 ### Example Datasets:
 
 * **CIFAR-10**: Downloadable via `torchvision`, or place it in the `CIFAR10` directory.
-* **Image-100**: A custom dataset with the usual folder structure (one folder per class). Ensure it¡¯s structured correctly within the `Image-100` directory.
+* **Image-100**: A custom dataset with the usual folder structure (one folder per class). Ensure itÂ¡Â¯s structured correctly within the `Image-100` directory.
 * **ImageNet**: Available for download from [ImageNet's official site](http://www.image-net.org/download-images). Ensure it's placed under the `ImageNet` folder.
 
 
@@ -36,7 +36,7 @@ To set up your environment, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/ssl-pib-sampling.git
+   git clone https://github.com/ML-TASA/PID-SSL.git
    cd ssl-pib-sampling
    ```
 
